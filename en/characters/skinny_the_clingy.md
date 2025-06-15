@@ -28,7 +28,7 @@ The mere threat of Skinny's natural defense makes enemies think twice. He gains 
 ### Stink Bomb
 
 Skinny has 2 "stink points" that refresh only by drinking a full can of soda (the carbonation helps with digestion). He can spend 1 stink point to:
-- Force all enemies within close range to make **Tenacious** rolls or flee the area
+
 - Create a lingering cloud that blocks vision and makes the area impassable for three rounds
 - Knock out a single target for one round (no save)
 
