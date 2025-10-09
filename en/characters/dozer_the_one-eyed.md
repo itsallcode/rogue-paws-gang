@@ -4,9 +4,9 @@
 |-----------|------:|
 | Cute      |     1 |
 | Ferocious |     5 |
-| Tenacious |     5 |
+| Tenacious |     4 |
 | Smart     |     3 |
-| Nimble    |     2 |
+| Nimble    |     1 |
 | Aware     |     3 |
 
 ## Background
@@ -19,17 +19,13 @@ Dozer carries himself with the quiet confidence of someone who's survived everyt
 
 ## Strengths
 
-### Battle-Scarred Veteran
-
-Dozer's numerous encounters with danger have honed his combat instincts. He gains **advantage** on all **Ferocious** rolls.
-
 ### Unbreakable Will
 
 Years of hardship have forged Dozer's spirit into something unshakeable. He automatically succeeds on any roll to resist fear, intimidation, or despair, and gains **advantage** on **Tenacious** rolls when facing seemingly impossible odds.
 
 ### Street Survivor
 
-Dozer's experience with urban dangers gives him **advantage** on **Smart** rolls related to identifying threats, finding shelter, or navigating dangerous situations in populated areas.
+Dozer's experience with urban dangers gives him **advantage** on **Smart** rolls related to identifying threats or finding shelter.
 
 ## Weaknesses
 
