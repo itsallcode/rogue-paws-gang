@@ -21,7 +21,7 @@ Dozer carries himself with the quiet confidence of someone who's survived everyt
 
 ### Unbreakable Will
 
-Years of hardship have forged Dozer's spirit into something unshakeable. He automatically succeeds on any roll to resist fear, intimidation, or despair, and gains **advantage** on **Tenacious** rolls when facing seemingly impossible odds.
+Years of hardship have forged Dozer's spirit into something unshakeable. He automatically succeeds on any roll to resist fear or intimidation, and gains **advantage** on **Tenacious** rolls when facing seemingly impossible odds.
 
 ### Street Survivor
 

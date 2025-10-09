@@ -4,9 +4,9 @@
 |-------------|-----:|
 | Niedlich    |    1 |
 | Grimmig     |    5 |
-| Hartnäckig  |    5 |
-| Schlau      |    2 |
-| Flink       |    2 |
+| Hartnäckig  |    4 |
+| Schlau      |    3 |
+| Flink       |    1 |
 | Aufmerksam  |    3 |
 
 ## Hintergrund
@@ -21,17 +21,14 @@ Bei Fremden ist er ganz geschäftsmäßig — beschützend, wachsam und völlig 
 
 ## Stärken
 
-### Kampferprobter Veteran
 
-Dozers zahlreiche Begegnungen mit Gefahren haben seine Kampfinstinkte geschärft. Er erhält **Vorteil** bei allen **Grimmig**-Würfen.
+### Unerschütterlicher Wille
 
-### Unzerbrechlicher Wille
-
-Jahre der Entbehrung haben Dozers Geist zu etwas Unerschütterlichem geformt. Er besteht automatisch jeden Wurf, um Angst, Einschüchterung oder Verzweiflung zu widerstehen, und erhält **Vorteil** bei **Hartnäckig**-Würfen, wenn er scheinbar unmöglichen Widrigkeiten gegenübersteht.
+Jahre der Entbehrung haben Dozers Geist zu unerschütterlich gemacht. Er besteht automatisch jeden Wurf, um Angst oder Einschüchterung zu widerstehen, und erhält **Vorteil** bei **Hartnäckig**-Würfen, wenn er scheinbar unmöglichen Widrigkeiten gegenübersteht.
 
 ### Überlebenskünstler in der Stadt
 
-Dozers Erfahrung mit städtischen Gefahren gibt ihm **Vorteil** bei **Schlau**-Würfen im Zusammenhang mit der Identifizierung von Bedrohungen, dem Finden von Unterschlupf oder der Navigation durch gefährliche Situationen in besiedelten Gebieten.
+Dozers Erfahrung mit städtischen Gefahren gibt ihm **Vorteil** bei **Schlau**-Würfen im Zusammenhang mit der Identifizierung von Bedrohungen und dem Finden von Unterschlupf.
 
 ## Schwächen
 
