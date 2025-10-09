@@ -11,7 +11,7 @@
 
 ## Hintergrund
 
-Doodles ist eine stämmige Französische Bulldogge mit einem Herzen, das dreimal zu groß für seinen ohnehin großzügigen Körper ist. Obwohl er vielleicht nicht der Hellste ist, macht er seinen Mangel an Intelligenz durch unerschütterliche Loyalität und Mut wett. Sein rundlicher Bauch ist ein Beweis für seine Liebe zu Leckerbissen, und seine stämmigen Beine haben ihn nie davon abgehalten, kopfüber in Gefahr zu stürzen, um diejenigen zu beschützen, die ihm wichtig sind. Trotz seiner starken Beschützerinstinkte ist er immer noch nur ein braver Hund, der Bauchkraulen und Bestätigung möchte.
+Doodles ist eine stämmige französische Bulldogge mit einem Herzen, das dreimal zu groß für seinen ohnehin großzügigen Körper ist. Obwohl er vielleicht nicht der Hellste ist, macht er seinen Mangel an Intelligenz durch unerschütterliche Loyalität und Mut wett. Sein rundlicher Bauch ist ein Beweis für seine Liebe zu Leckerbissen, und seine stämmigen Beine haben ihn nie davon abgehalten, kopfüber in Gefahr zu stürzen, um diejenigen zu beschützen, die ihm wichtig sind. Trotz seiner starken Beschützerinstinkte ist er immer noch nur ein braver Hund, der Bauchkraulen und Bestätigung möchte.
 
 Doodles lebt bei der Familie Johnson, die ihn mit "braver Junge"-Lob überschüttet, wenn er sich gut benimmt, aber ihn übertrieben als "böser Hund" schimpft, wenn er Fehler macht.
 

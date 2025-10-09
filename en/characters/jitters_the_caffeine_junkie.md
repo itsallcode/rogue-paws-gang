@@ -11,7 +11,7 @@
 
 ## Background
 
-Jitters is a wiry ferret whose entire existence revolves around his next caffeine fix. Years of stimulant abuse have left his memory a Swiss cheese full of holes, but his encyclopedic knowledge of every coffee shop, convenience store, and pharmacy in the city remains razor-sharp. His mood swings between manic hyperactivity and crushing lows, making him unpredictable but undeniably effective when properly caffeinated. He can't remember his real name, where he came from, or most of his past—but he knows exactly which gas station sells the strongest energy drinks at 3 AM.
+Jitters is a wiry ferret whose entire existence revolves around his next caffeine fix. Years of stimulant abuse have left his memory a Swiss cheese full of holes, but his encyclopedic knowledge of every coffee shop, convenience store, and pharmacy in the city remains Hatchet-sharp. His mood swings between manic hyperactivity and crushing lows, making him unpredictable but undeniably effective when properly caffeinated. He can't remember his real name, where he came from, or most of his past—but he knows exactly which gas station sells the strongest energy drinks at 3 AM.
 
 ## Personality
 

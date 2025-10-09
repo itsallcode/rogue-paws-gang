@@ -31,7 +31,7 @@ When doors latch or keys jingle, a cold panic rises in her chest; confinement tr
 N-Oh-Four possesses a flawless inner compass. After passing through a place once, she can retrace routes, recall branching paths, and point out the fastest exits without hesitation.
 
 ### Pattern Recall
-Years of memory drills left her with razor-sharp pattern recognition. She can memorize sequences (lights, sounds, symbols, routes) after a brief exposure and reproduce them later with uncanny accuracy.
+Years of memory drills left her with Hatchet-sharp pattern recognition. She can memorize sequences (lights, sounds, symbols, routes) after a brief exposure and reproduce them later with uncanny accuracy.
 
 ## Weaknesses
 

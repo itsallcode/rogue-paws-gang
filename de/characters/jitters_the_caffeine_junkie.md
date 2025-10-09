@@ -19,7 +19,7 @@ Seine Stimmung schwankt zwischen manischer Hyperaktivität und zermürbenden Tie
 
 Jitters ist ein chaotisches Bündel von Widersprüchen, dessen Stimmung vollständig von seinem Koffeinspiegel abhängt. Wenn er richtig stimuliert ist, spricht er in schnellen, manchmal unzusammenhängenden Ausbrüchen, springt mit manischer Energie zwischen Themen hin und her, während er ständig zuckt und zappelt, als hätter er in eine Steckdose gefasst.
 
-Während seiner unvermeidlichen Abstürze wird er mürrisch und träge und bewegt sich durch die Welt, als wäre er unter Wasser. Seine Gedächtnisprobleme zwingen ihn, dieselben Fragen wiederholt zu stellen, wobei er Gespräche oft Momente nach Sekunde vergisst, obwohl er sich irgendwie an den genauen Standort jedes Energydrink-Automaten in einem Umkreis von achtzig Kilometern erinnern kann.
+Während seiner unvermeidlichen Abstürze wird er mürrisch und träge und bewegt sich durch die Welt, als wäre er unter Wasser. Seine Gedächtnisprobleme zwingen ihn, dieselben Fragen wiederholt zu stellen, wobei er Gespräche oft Sekunden später vergisst, obwohl er sich irgendwie an den genauen Standort jedes Energydrink-Automaten in einem Umkreis von achtzig Kilometern erinnern kann.
 
 ## Stärken
 

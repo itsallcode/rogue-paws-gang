@@ -5,7 +5,7 @@
 | Niedlich    |    1 |
 | Grimmig     |    5 |
 | Hartnäckig  |    5 |
-| Schlau      |    3 |
+| Schlau      |    2 |
 | Flink       |    2 |
 | Aufmerksam  |    3 |
 
