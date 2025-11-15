@@ -21,7 +21,6 @@ Bei Fremden ist er ganz geschäftsmäßig — beschützend, wachsam und völlig 
 
 ## Stärken
 
-
 ### Unerschütterlicher Wille
 
 Jahre der Entbehrung haben Dozers Geist zu unerschütterlich gemacht. Er besteht automatisch jeden Wurf, um Angst oder Einschüchterung zu widerstehen, und erhält **Vorteil** bei **Hartnäckig**-Würfen, wenn er scheinbar unmöglichen Widrigkeiten gegenübersteht.

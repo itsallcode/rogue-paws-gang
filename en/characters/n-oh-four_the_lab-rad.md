@@ -2,12 +2,12 @@
 
 | Stat      | Score |
 |-----------|------:|
-| Cute      |        |
-| Ferocious |        |
-| Tenacious |        |
-| Smart     |        |
-| Nimble    |        |
-| Aware     |        |
+| Cute      |     2 |
+| Ferocious |     2 |
+| Tenacious |     4 |
+| Smart     |     4 |
+| Nimble    |     3 |
+| Aware     |     2 |
 
 ## Background
 
@@ -37,6 +37,8 @@ Years of memory drills left her with Hatchet-sharp pattern recognition. She can 
 
 ### Human and Confinement Phobia
 The presence of humans or the sound/feeling of locks and latches can trigger anxiety and freezing. Tight cages, closed carriers, and windowless rooms are especially distressing.
+
+N-Oh-Four gets a disadvantage on all ferocious and tenacious tests if in a tight space. 
 
 ### Boredom Intolerance
 Without puzzles, exploration, or tasks to chew on, N-Oh-Four becomes restless and distracted, abandoning routines to seek stimulation.
